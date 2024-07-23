@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 3054.22 1976.95">
+  <defs>
+    <style>
+      .cls-1 {
+        isolation: isolate;
+      }
+
+      .cls-2 {
+        fill: url(#radial-gradient);
+        mix-blend-mode: screen;
+      }
+
+      .cls-2, .cls-3 {
+        stroke-width: 0px;
+      }
+
+      .cls-3 {
+        fill: url(#radial-gradient-2);
+        mix-blend-mode: color-dodge;
+      }
+    </style>
+    <radialGradient id="radial-gradient" cx="-825.34" cy="1279.95" fx="-825.34" fy="1279.95" r="189.01" gradientTransform="translate(8134.99 -5764.58) rotate(-.52) scale(8.08 5.23)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#6b2700"/>
+      <stop offset=".18" stop-color="#4a1b00"/>
+      <stop offset=".41" stop-color="#2a0f00"/>
+      <stop offset=".62" stop-color="#120600"/>
+      <stop offset=".83" stop-color="#040100"/>
+      <stop offset="1" stop-color="#000"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-2" cx="-828.7" cy="1279.89" fx="-828.7" fy="1279.89" r="96.54" xlink:href="#radial-gradient"/>
+  </defs>
+  <g class="cls-1">
+    <g id="Layer_2" data-name="Layer 2">
+      <g id="Layer_1-2" data-name="Layer 1">
+        <g>
+          <path class="cls-2" d="m3054.2,974.62c4.97,545.81-674.72,994.56-1518.1,1002.23C692.73,1984.51,4.99,1548.19.03,1002.39-4.93,456.46,674.74,7.76,1518.14.1c843.38-7.66,1531.09,428.6,1536.06,974.52Z"/>
+          <path class="cls-3" d="m2280.01,981.36c2.53,278.77-344.65,507.95-775.43,511.87-430.79,3.99-782.06-218.94-784.6-497.71-2.53-278.83,344.65-508.01,775.41-511.93,430.78-3.93,782.08,218.94,784.62,497.77Z"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

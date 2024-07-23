@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 70.44 79.25">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#linear-gradient);
+        filter: url(#drop-shadow-1);
+      }
+
+      .cls-1, .cls-2 {
+        stroke-width: 0px;
+      }
+
+      .cls-3 {
+        isolation: isolate;
+      }
+
+      .cls-2 {
+        fill: url(#radial-gradient);
+        mix-blend-mode: multiply;
+        opacity: .5;
+      }
+    </style>
+    <radialGradient id="radial-gradient" cx="37.95" cy="46.76" fx="37.95" fy="46.76" r="32.48" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#000"/>
+      <stop offset=".1" stop-color="#212121"/>
+      <stop offset=".35" stop-color="#6f6f6f"/>
+      <stop offset=".58" stop-color="#adadad"/>
+      <stop offset=".77" stop-color="#d9d9d9"/>
+      <stop offset=".91" stop-color="#f4f4f4"/>
+      <stop offset="1" stop-color="#fff"/>
+    </radialGradient>
+    <linearGradient id="linear-gradient" x1="0" y1="34.05" x2="68.11" y2="34.05" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#78fffb"/>
+      <stop offset=".1" stop-color="#79effb"/>
+      <stop offset=".29" stop-color="#7cc5fb"/>
+      <stop offset=".55" stop-color="#8182fc"/>
+      <stop offset=".87" stop-color="#8826fd"/>
+      <stop offset="1" stop-color="#8c00fe"/>
+    </linearGradient>
+    <filter id="drop-shadow-1" filterUnits="userSpaceOnUse">
+      <feOffset dx="1.7" dy="5.97"/>
+      <feGaussianBlur result="blur" stdDeviation="1.7"/>
+      <feFlood flood-color="#000" flood-opacity=".25"/>
+      <feComposite in2="blur" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g class="cls-3">
+    <g id="Layer_2" data-name="Layer 2">
+      <g id="OBJECTS">
+        <g>
+          <path class="cls-2" d="m70.44,46.76c0,17.94-14.54,32.48-32.48,32.48S5.47,64.7,5.47,46.76,20.01,14.28,37.96,14.28s32.48,14.54,32.48,32.48Z"/>
+          <path class="cls-1" d="m68.11,34.05c0,18.81-15.25,34.05-34.06,34.05S0,52.86,0,34.05,15.25,0,34.05,0s34.06,15.25,34.06,34.05Z"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
